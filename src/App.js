@@ -11,6 +11,7 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom'
 const App = () => {
   return (
     <BrowserRouter>
+
     <Routes>
       <Route path="/" element={<Home/>}/>
       <Route path="/cart" element={<Cart/>}/>
@@ -18,7 +19,8 @@ const App = () => {
       <Route path="/Register" element={<Register/>}/>
       <Route path="/Product/:id" element={<Product/>}/>
       <Route path="/Products" element={<ProductList/>}/>
-</Routes>
+    </Routes>
+
     </BrowserRouter>
 
   )
