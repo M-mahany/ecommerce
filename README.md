@@ -1,5 +1,5 @@
 # Project preview Screenshot
-![responsive design](https://drive.google.com/file/d/1SvF_f68vj5d7OCpIWfUaAFNr4byV1ZeD/view?usp=sharing)
+![responsive design](https://drive.google.com/file/d/1E9zlxuNmYcQUFFi70pRQqvZMvjRUMO-x/view?usp=share_link)
 
 # Getting Started with Create React App
 
